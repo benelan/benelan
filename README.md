@@ -8,6 +8,6 @@
   </a>
     &nbsp;&nbsp;
     <a href="https://github.com/benelan">
-    <img align="center" src="https://streak-stats.demolab.com?user=benelan&hide_border=true&background=DD272700&currStreakNum=0087F2&sideNums=0087F2&dates=3593E8&fire=DD2727&stroke=3593E8&currStreakLabel=DD2727&sideLabels=3593E8" />
+    <img align="center" src="https://streak-stats.demolab.com?user=benelan&hide_border=true&background=00000000&currStreakNum=006aff&sideNums=006aff&dates=417e87&fire=DD2727&stroke=417e87&currStreakLabel=417e87&sideLabels=417e87" />
   </a>
 </p>
